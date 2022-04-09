@@ -1,0 +1,35 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    font-weight: 300;
+}
+h2{
+    text-decoration: underline black;
+}
+h1{
+    background: rgba(69, 134, 192, 0.409);
+    display: inline-table;
+  }
+  img{
+      width: 750px;
+      height: 500px;
+  }
+  .row{
+      display: flex;
+  }
+  .column {
+      flex: 50%;
+      padding: 5px;
+  }
+ #wave {
+    background: url(https://img.wallpaper.sc/ipad/images/2592x2592/ipad-2592x2592-wallpaper_01551.jpg) repeat left fixed ;
+    display: inline-table;
+  }
+  h2 {
+background-color: rgba(69, 134, 192, 0.409);
+display: inline-table;
+  }
+
+  h3{
+      text-decoration: underline black;
+  }
